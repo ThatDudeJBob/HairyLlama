@@ -1,4 +1,6 @@
-# 🦙💬 Llama 2 Chat
+# The Hairy Llama Chatbot for Streamlit🦙💬 
+
+[![forked from Llama 2 Chat Demo Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama2.streamlitapp.com/)
 
 This chatbot is created using the open-source Llama 2 LLM model from Meta.
 
